@@ -1,0 +1,6 @@
+D:\Azure\Azure_Labs\PromotionEngine\PromotionEngine\bin\Debug\PromotionEngine.exe.config
+D:\Azure\Azure_Labs\PromotionEngine\PromotionEngine\bin\Debug\PromotionEngine.exe
+D:\Azure\Azure_Labs\PromotionEngine\PromotionEngine\bin\Debug\PromotionEngine.pdb
+D:\Azure\Azure_Labs\PromotionEngine\PromotionEngine\obj\Debug\PromotionEngine.csprojResolveAssemblyReference.cache
+D:\Azure\Azure_Labs\PromotionEngine\PromotionEngine\obj\Debug\PromotionEngine.exe
+D:\Azure\Azure_Labs\PromotionEngine\PromotionEngine\obj\Debug\PromotionEngine.pdb
